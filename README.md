@@ -39,6 +39,7 @@
   https://github.com/Rinya00/Duangdee_Nodejs.git
   https://github.com/Rinya00/DuangDee_Web_React.git
   https://github.com/Rinya00/DuangDee_Android_Kotlin.git
+  https://www.figma.com/design/iGY9FATpcQEdFlRPNC8Ued/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5?node-id=0-1&p=f&t=kFxqBlQYHBswJZ70-0
 - 🌏 PM2.5 Forecast Application – Air quality monitoring app with forecast system
   https://github.com/Rinya00/pm2_flutter_project.git
   https://github.com/Rinya00/PM2_API_Node.js.git
